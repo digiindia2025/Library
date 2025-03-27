@@ -1,0 +1,33 @@
+# Node Modules  
+node_modules/  
+npm-debug.log*  
+yarn-error.log  
+
+# Environment Variables  
+.env  
+.env.local  
+.env.development.local  
+.env.test.local  
+.env.production.local  
+
+# Build & Output  
+dist/  
+build/  
+.DS_Store  
+
+# Editor & OS-Specific Files  
+.vscode/  
+.idea/  
+*.log  
+*.swp  
+Thumbs.db  
+
+# Git & Dependency Management  
+package-lock.json  
+yarn.lock  
+
+# React Testing  
+coverage/  
+jest/  
+cypress/screenshots/  
+cypress/videos/  
